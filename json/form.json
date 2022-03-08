@@ -1,0 +1,12 @@
+[
+    {
+        "id": 3,
+        "name": "фартук",
+        "urlImage":[
+            "https://belsuvenir.ru/upload/iblock/ad3/apron-2.jpg"
+        ],
+        "price" : 500,
+        "description": "Фартук с вашим собственным рисунком ",
+        "color" : "black" 
+}
+]
